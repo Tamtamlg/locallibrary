@@ -1,5 +1,6 @@
 .DS_Store
 .huskyrc.json
+.env
 venv
 out
 log.log
